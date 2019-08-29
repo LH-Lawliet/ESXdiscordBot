@@ -21,3 +21,7 @@ edit your config.json, put your discord bot token and the configuration of your 
 Start the bot with the command : 
 
 	- node ~path to your extracted file~/index.js
+
+to get information on a player type on discord :
+
+	- !userInfo ~hex steamid of the player~

@@ -1,0 +1,20 @@
+{
+    "information": {
+        "creator": "LH_Lawliet",
+        "version": "0.0.1",
+        "changelog": {
+        }
+    },
+
+    "config": {
+        "token": "",
+        "adminRole": "616570782352670721"
+    },
+
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "essentialmode"
+    }
+}
